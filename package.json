@@ -1,0 +1,23 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "This is the code for my portfolio",
+  "main": "src/main.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "author": "Nathan Hamelin",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "babel": "^6.23.0",
+    "parcel": "^2.6.0",
+    "process": "^0.11.10",
+    "react-dom": "^18.1.0",
+    "sass": "^1.52.1"
+  },
+  "dependencies": {
+    "react": "^18.1.0"
+  }
+}
